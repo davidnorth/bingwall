@@ -1,0 +1,13 @@
+{
+  "name": "bingwall",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Fetch a random wallpaper from the bing wallpaper archive",
+  "main": "index.js",
+  "author": "David North",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.2"
+  }
+}
